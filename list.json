@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "imageUrl": "some url here",
+      "name": "Product name",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    }
+  ]
+}
